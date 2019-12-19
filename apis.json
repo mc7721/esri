@@ -1,0 +1,48 @@
+{
+    "name": "Esri",
+    "description": "Esri has cultivated collaborative relationships with partners who share our commitment to solving Earth???s most pressing challenges with geographic expertise and rational resolve.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28271-developers-arcgis-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/esri\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Esri",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28271-developers-arcgis-com.jpg",
+            "humanURL": "https:\/\/developers.arcgis.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/esri-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/esri-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/esri"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Esri"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developers.arcgis.com"
+        }
+    ]
+}
